@@ -1,5 +1,8 @@
-from flask import Flask, render_template, request, redirect,url_for
-#import pdb
+from flask import (Flask, render_template, request, redirect,
+                   url_for, g)
+import sqlite3
+
+# import pdb
 app = Flask(__name__)
 
 
@@ -17,3 +20,8 @@ def new_item():
         # Redirect to some page
         return redirect(url_for("home"))
     return render_template("new_item.html")
+
+
+def get_db():
+    db = getattr(g, "_database", None)
+    g._database = sqlite3.connect("db/globomantics.db")
