@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="facb700c-7d78-4820-95b8-9c84a982dd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/new_item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/new_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/new_item.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602665880777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1602679986982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602679986982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -88,17 +93,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602665880433">
+    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602679986719">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602665880433" />
+    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602679986719" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1602664195080">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1602664195080" />
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1602665891508">
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1602679990236">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1602665891508" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1602679990236" />
   </component>
 </project>
