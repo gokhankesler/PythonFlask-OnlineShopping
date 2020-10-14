@@ -79,13 +79,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602665179992">
+    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602665880433">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602665179992" />
+    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602665880433" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1602664195080">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1602664195080" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1602665891508">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1602665891508" />
   </component>
 </project>
