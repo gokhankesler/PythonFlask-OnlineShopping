@@ -9,7 +9,6 @@ table = input("Show table: ")
 conn = sqlite3.connect(db_abs_path)
 c = conn.cursor()
 
-
 def show_items():
     try:
         items = c.execute("""SELECT
@@ -35,7 +34,6 @@ def show_items():
         print("Something went wrong, please run db_init.py to initialize the database.")
         conn.close()
 
-
 def show_comments():
     try:
         comments = c.execute("""SELECT
@@ -56,7 +54,6 @@ def show_comments():
         print("Something went wrong, please run db_init.py to initialize the database.")
         conn.close()
 
-
 def show_categories():
     try:
         categories = c.execute("SELECT * FROM categories")
@@ -71,11 +68,9 @@ def show_categories():
         print("Something went wrong, please run db_init.py to initialize the database.")
         conn.close()
 
-
 def show_subcategories():
     try:
-        subcategories = c.execute(
-            "SELECT s.id, s.name, c.name, c.id FROM subcategories AS s INNER JOIN categories AS c ON s.category_id = c.id")
+        subcategories = c.execute("SELECT s.id, s.name, c.name, c.id FROM subcategories AS s INNER JOIN categories AS c ON s.category_id = c.id")
         print("SUBCATEGORIES")
         print("#############")
         for row in subcategories:

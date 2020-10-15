@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="facb700c-7d78-4820-95b8-9c84a982dd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gkesler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/globomantics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/show_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/show_tables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/new_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/new_item.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -97,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602698806711</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1602699740249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602699740249</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,17 +128,17 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1602687938292" />
-    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602698806301">
+    <state x="240" y="2" key="CommitChangelistDialog2" timestamp="1602699739948">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602698806301" />
+    <state x="240" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1602699739948" />
     <state x="141" y="39" key="SettingsEditor" timestamp="1602664195080">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1602664195080" />
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1602698809226">
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1602699741648">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1602698809226" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1602699741648" />
   </component>
 </project>
